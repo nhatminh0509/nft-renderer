@@ -2,6 +2,10 @@
   "name": "nft-renderer",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "nhatminh0509",
+    "email": "leminhnhat1133@gmail.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
